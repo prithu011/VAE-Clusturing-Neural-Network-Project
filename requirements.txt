@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+librosa
+soundfile
+torch
+torchvision
+torchaudio
+tqdm
+umap-learn
+nltk
+gensim
+transformers
+sentence-transformers
+jupyter
